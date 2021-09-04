@@ -1,0 +1,12 @@
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\bin\Debug\net5.0\Chapter1.deps.json
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\bin\Debug\net5.0\Chapter1.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\bin\Debug\net5.0\ref\Chapter1.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\bin\Debug\net5.0\Chapter1.pdb
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.csproj.AssemblyReference.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.AssemblyInfoInputs.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.AssemblyInfo.cs
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.csproj.CoreCompileInputs.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\ref\Chapter1.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\1.1. 진화하는 언어\obj\Debug\net5.0\Chapter1.pdb

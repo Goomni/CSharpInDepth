@@ -1,0 +1,16 @@
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.exe
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.deps.json
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.runtimeconfig.json
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.runtimeconfig.dev.json
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\ref\PlayGround.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\bin\Debug\net5.0\PlayGround.pdb
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.csproj.AssemblyReference.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.AssemblyInfoInputs.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.AssemblyInfo.cs
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.csproj.CoreCompileInputs.cache
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\ref\PlayGround.dll
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.pdb
+C:\Users\rnals\source\Repos\CSharpInDepth\PlayGround\obj\Debug\net5.0\PlayGround.genruntimeconfig.cache
